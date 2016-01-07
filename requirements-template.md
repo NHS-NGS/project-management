@@ -2,7 +2,7 @@
  
 ## Participants 
 
-_Product owner, team, stakeholders_
+_testing this out!
 
 ## Project Goals & Objectives 
 
