@@ -16,4 +16,4 @@ Attempt to avoid duplicated efforts across labs and [scope creep](https://en.wik
 
 2. Share with stake holders to specify requirements for project
 
-3. Agree set of final requirements and acceptance criteria. Update approval status
+3. Agree set of final requirements and [acceptance criteria](http://nomad8.com/acceptance_criteria/). Update approval status
