@@ -28,7 +28,7 @@ _Identify limits to the scope of the solution by defining goals and non goals. T
 
 
 
-| Requirement | Description | Acceptance Criteria | Priority | Design Document |
+| Requirement | Description | Acceptance Criteria | Priority | GitHub Issue(s) |
 |-------------|-------------|---------------------|----------|-----------------|
 |             |             |                     |          |                 |
 |             |             |                     |          |                 |
