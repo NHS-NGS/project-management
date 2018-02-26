@@ -6,13 +6,15 @@
     - Product owner:
     - Team:
     - Stakeholders:
+    - Other key relationships: 
 
 ## Current Status
 
-_Draft, In Progress, Approved_
+_Draft, Approved_
+- Date
 
 ## Purpose
-_Essentially, why are we doing this project?_
+_Essentially, why are we doing this project?_ (A short, high level aim)
 
 ## Project Goals & Objectives 
 
@@ -26,20 +28,12 @@ _Identify limits to the scope of the solution by defining goals and non goals. T
 
 ## Requirements
 
-
-
-| Requirement | Description | Acceptance Criteria | Priority | GitHub Issue(s) |
-|-------------|-------------|---------------------|----------|-----------------|
-|             |             |                     |          |                 |
-|             |             |                     |          |                 |
-|             |             |                     |          |                 |
-
 ### Functional
 
 - item one
 - item two
  
-### Technical 
+### Technical (Non-Funtional)
  
 - item one
 - item two
